@@ -1,2 +1,5 @@
 .idea
 .DS_Store
+
+/proxychains.conf
+/*.local.sh
